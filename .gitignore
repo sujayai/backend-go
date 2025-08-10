@@ -1,0 +1,9 @@
+server
+data/
+posts/
+uploads/
+.env*
+*.log
+*.test
+*.out
+.DS_Store
